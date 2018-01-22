@@ -1,0 +1,22 @@
+{
+  "name": "the-request-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesandre-middleton/the-request-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvesandre-middleton/the-request-package/issues"
+  },
+  "homepage": "https://github.com/yvesandre-middleton/the-request-package#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
